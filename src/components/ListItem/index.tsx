@@ -24,7 +24,7 @@ export const ListItem = ({item}: Props) => {
                                 
                 }
                 />
-            <label>{item.name}  -  {item.done.toString()}</label>
+            <label>{item.name}   -   {item.done.toString()}</label>
         </C.Container>    
     )
 }
