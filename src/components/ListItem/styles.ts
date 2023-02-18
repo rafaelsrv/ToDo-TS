@@ -12,7 +12,7 @@ export const Container = styled.div(({ done } : ContainerProps)=>(
     background-color: #20212C;
     padding: 10px;
     border-radius: 11px;
-    margin-bottom: 10px;
+    margin-bottom: 11px;
     align-items: center;
     
     label{
