@@ -11,7 +11,7 @@ export const Container = styled.div(({ done } : ContainerProps)=>(
     display: flex;
     background-color: #20212C;
     padding: 11px;
-    border-radius: 14px;
+    border-radius: 15px;
     margin-bottom: 12px;
     align-items: center;
     
