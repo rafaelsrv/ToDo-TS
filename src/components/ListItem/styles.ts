@@ -9,7 +9,7 @@ export const Container = styled.div(({ done } : ContainerProps)=>(
 
     `
     display: flex;
-    background-color: #20241C;
+    background-color: #20641C;
     padding: 11px;
     border-radius: 9px;
     margin-bottom: 12px;
