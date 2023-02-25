@@ -15,7 +15,8 @@ export const Container = styled.div(({ done } : ContainerProps)=>(
     margin-bottom: 12px;
     align-items: center;
     content-align: center;
-    border: solid 9px;
+    //sauiheauise
+    
     
     label{
         color: #CCC;
