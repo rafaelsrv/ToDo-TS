@@ -14,6 +14,7 @@ export const Container = styled.div(({ done } : ContainerProps)=>(
     border-radius: 9px;
     margin-bottom: 12px;
     align-items: center;
+    content-align: left;
     
     label{
         color: #CCC;
